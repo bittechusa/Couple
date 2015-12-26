@@ -14,7 +14,8 @@ giHow to initilize a new repository
 3. git add . or git add -A
 4. git commit -m "any coment"
 5. git pull
-6. git push (if needed git push -u origin master)
+6. git push (if needed git 
+ -u origin master)
 
 *How to import a project in Eclipse from folder or repository
 1. click file
